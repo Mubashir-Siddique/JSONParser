@@ -1,0 +1,6 @@
+C:\Users\Mubashir Siddique\source\repos\DailyPractice\JSONParserNew\bin\Debug\JSONParserNew.exe.config
+C:\Users\Mubashir Siddique\source\repos\DailyPractice\JSONParserNew\bin\Debug\JSONParserNew.exe
+C:\Users\Mubashir Siddique\source\repos\DailyPractice\JSONParserNew\bin\Debug\JSONParserNew.pdb
+C:\Users\Mubashir Siddique\source\repos\DailyPractice\JSONParserNew\obj\Debug\JSONParserNew.csproj.CoreCompileInputs.cache
+C:\Users\Mubashir Siddique\source\repos\DailyPractice\JSONParserNew\obj\Debug\JSONParserNew.exe
+C:\Users\Mubashir Siddique\source\repos\DailyPractice\JSONParserNew\obj\Debug\JSONParserNew.pdb
